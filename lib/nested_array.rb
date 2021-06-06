@@ -58,7 +58,7 @@ CONVENTIONAL_PRODUCE = [
 #new_org = organic_produce.sort
 #puts new_org
 
-matrix = [ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE]
+matrix = [[ORGANIC_PRODUCE], [CONVENTIONAL_PRODUCE]]
 #matrix2 = [organic_produce]
 
 end
